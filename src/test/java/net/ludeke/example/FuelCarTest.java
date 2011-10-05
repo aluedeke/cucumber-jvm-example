@@ -1,10 +1,12 @@
-package se.sigma.example;
+package net.ludeke.example;
 
 import cucumber.annotation.en.Given;
 import cucumber.annotation.en.Then;
 import cucumber.annotation.en.When;
 import cucumber.junit.Cucumber;
 import cucumber.junit.Feature;
+import net.ludeke.example.Car;
+
 import org.junit.runner.RunWith;
 
 import static org.hamcrest.core.Is.is;

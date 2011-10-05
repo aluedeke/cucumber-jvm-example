@@ -1,4 +1,4 @@
-package se.sigma.example;
+package net.ludeke.example;
 
 public class Car {
     private Integer fuelLevel;
